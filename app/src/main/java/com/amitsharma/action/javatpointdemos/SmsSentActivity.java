@@ -9,5 +9,7 @@ public class SmsSentActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sms_sent);
+
+        // Changes Found
     }
 }
